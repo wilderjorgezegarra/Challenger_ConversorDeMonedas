@@ -28,7 +28,7 @@ public class Principal {
                     break;
                 case 2:
                     ConvertirMoneda.convertir("ARS","USD",consulta,teclado);
-                    break;
+                    break; //
                 case 3:
                     ConvertirMoneda.convertir("USD","BRL",consulta,teclado);
                     break;
